@@ -1,0 +1,1 @@
+export { fastifyConfigs } from "./fastify.config";
